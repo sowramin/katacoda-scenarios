@@ -27,6 +27,6 @@
         "uilayout": "IDE + Terminal"
     },
     "backend": {
-        "imageid": "Docker"
+        "imageid": "docker"
     }
 }
