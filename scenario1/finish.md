@@ -1,1 +1,1 @@
-We have executed the basic commands for Docker
+We have successfully completed executing the basic commands for Docker
