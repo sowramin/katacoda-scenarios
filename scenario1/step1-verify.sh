@@ -1,2 +1,4 @@
- [ [history | grep -o "docker version" | wc -l | tail -n 30] -gt 1 ] && echo "done"
+HIST=$(history | grep -o "docker version" | wc -l | tail -n 30);
+ [ $HIST -gt 1 ] && echo "done"
 
+		
