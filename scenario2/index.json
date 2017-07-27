@@ -1,6 +1,10 @@
 {
     "title": "Scenario Docker 2 from git hub",
     "description": "Check to make sure the user can proceed",
+        "private": true,
+  "security": {
+    "secret": "test01"
+  },
     "details": {
         "steps": [
             {
