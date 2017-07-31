@@ -2,18 +2,15 @@
     "title": "Scenario Docker 3 from git hub",
     "description": "Check to make sure the user can proceed",
     "details": {
-        "steps": [
-            {
-                "title": "Step 1 - Verify version",
-                "text": "step1.md",
-                "verify": "step1-verify.sh"
-            },
-            {
-                "title": "Step 2 - docker search",
-                "text": "step2.md",
-                "verify": "step1-verify.sh"
-            }
-        ],
+          "steps": [{
+      "title": "Step 1 - Run Command",
+      "text": "step1.md"
+    },
+              {
+      "title": "Step 2 - Run Command",
+      "text": "step2.md"
+    }
+             ],
         "intro": {
             "text": "intro.md"
         },
