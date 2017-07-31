@@ -8,10 +8,7 @@
       "title": "Step 1 - Run Command",
       "text": "step1.md"
     }
-              {
-                "title": "Step 2 - docker search",
-                "text": "step2.md"
-            }
+            
              ],
     "intro": {
       "text": "intro.md",
